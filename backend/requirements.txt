@@ -1,0 +1,10 @@
+fastapi[all]
+uvicorn
+langchain
+SQLAlchemy
+pymysql
+python-dotenv
+requests
+langchain-openai
+dashscope
+pytest
